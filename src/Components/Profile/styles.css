@@ -1,0 +1,16 @@
+.profileContainer {
+	display: flex;
+	flex-direction: column;
+}
+
+.profileInput {
+	width: 10rem;
+	border: 1px #ccc solid;
+	border-radius: 2px;
+	margin-right: 1rem;
+	margin-bottom: 1rem;
+	padding: 8px 10px;
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 400;
+}

@@ -1,0 +1,21 @@
+.converterContainer {
+	display: flex;
+	flex-direction: column;
+}
+
+.converterInput {
+	width: 10rem;
+	border: 1px #ccc solid;
+	border-radius: 2px;
+	margin-right: 1rem;
+	padding: 8px 10px;
+	font-size: 18px;
+	line-height: 24px;
+	font-weight: 400;
+}
+
+.converterTopRow {
+	display: flex;
+	flex-direction: row;
+	margin-bottom: 1rem;
+}

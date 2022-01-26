@@ -1,0 +1,9 @@
+.contentContainer {
+	width: 100%;
+	padding: 2rem 10rem 1rem 10rem;
+}
+
+h1 {
+	line-height: 1.5em;
+	margin-bottom: 1rem;
+}
